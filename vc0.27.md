@@ -1,0 +1,29 @@
+	def func method;
+    var r;
+    
+    method var e { }
+    method var f(p, inv) {  }
+    method var imm {  }
+    method var ce {<= cf}
+    method var cf {=> ce}
+    method var cp {  }
+    mantle(crust) {  }
+    method static var ceta(ocea) { }
+    method var ceta(ocean) { }
+    method hover(near, far) {  }
+    method float(at_surface) {  }
+    def boundary_water <- transitionary-limit
+    revdef water_boundary <- transitionary-limit
+    magmus solar is solar magmus
+    nebula is clear
+    at flat_organism(flat-earth) { }
+    anatomy grey neuro(prefrontal lim, prefrontal grth) { }
+    tensor white mass(tteote) { }
+    palm feet sweat(sweet) {  }
+    wormhole multi(verse hole, dictation) {  }
+    boundary_third_mega mess man(trap) {  }
+    boundary_third_mega water substance(grab, grasp) {  }
+    Visionary settlement Settlement {  }
+    
+    e -> f -> imm -> ce -> cf -> cp -> mantle -> ceta -> ceta -> hover -> float -> boundary_water <- transitionary-limit -> water_boundary magmus solar is solar magmus nebula is clear => flat_organism -> neuro(lim, grth) -> mass -> sweat NxN -> multi -> man -> substance -> Settlement -> Pong-to-Earth x-x Convergent-Point NxNxNxN coeff.
+    Pyramid [1] Pyramid [2] imm. = e = [f f^-1 no p] R ^\ EOS - POS + 1.+, 1.- e = mc^2 prev_tdidf = 1 _ - | + 1 1 re <= eigen(theta-var) hover float neuro mass multi man substance settlement c su(u)bst p.d.o. substance settlement-residue-abandoned man multi mass neuro float hover var-theta(eigen) => er 1 1 + | - _ 1 = fdidt(tendon) _prev 2(cm^ = e) -.1 ,+.1 + SOP - SOE \^ [p on 1-^f f] = e = .mmi [2] dimaryP [1] dimaryP Wisdom Tooth Right Wing Left Palm Scratch Right Shoulder S[BTR]pan fofofocBTR(us)cu)sc)us)sound barrier-sim-theory-match.
